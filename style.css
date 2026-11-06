@@ -1,0 +1,17 @@
+body {
+    /* To jest komentarz */
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aquamarine;
+
+    background-image: url('morning-sun.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* -------------------------------------------------------------- */
+
+.box {
+    border: 3px solid black;
+    margin: 30px;
+    padding: 70px;
+}
